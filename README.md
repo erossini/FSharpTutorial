@@ -18,3 +18,8 @@ As we go, we will learn how to set up a development environment and design a bui
 Data Programming with F# presents practical techniques for handling real-world data programming challenges. We'll first see how to build efficient, extensible engines to parse and process documents and data streams. 
 
 Then we'll study how to process large sets of data with maximal performance and efficiency using asynchronous workflows, agents, and .NET reactive extensions. Next, we'll learn to use type providers, a unique F# feature that lets us program with data as if it were code. You will be capable of writing solutions with less code, fewer bugs, and better alignment with business requirements.
+
+## Code explained
+
+### 01-Consoleapp
+An example of a console application with F# and a library: how to call a libray from a console app? In addition, test projects with Microsoft Test, NUnit and xUnit.
