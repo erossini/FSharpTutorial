@@ -23,3 +23,9 @@ Then we'll study how to process large sets of data with maximal performance and 
 
 ### 01-Consoleapp
 An example of a console application with F# and a library: how to call a libray from a console app? In addition, test projects with Microsoft Test, NUnit and xUnit.
+
+## Tutorial
+- [Nested Function Declarations in F#](https://www.puresourcecode.com/dotnet/f/nested-function-declarations-in-f/)
+- [Using immutable data structures in F#](https://www.puresourcecode.com/dotnet/f/using-immutable-data-structures-in-f/)
+- [Using functions as values in F#](https://www.puresourcecode.com/dotnet/f/using-functions-as-values-in-f/)
+- [Create a console application in F# interactive](https://www.puresourcecode.com/dotnet/f/create-a-console-application-in-f-interactive/)
