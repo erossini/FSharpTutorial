@@ -24,6 +24,9 @@ Then we'll study how to process large sets of data with maximal performance and 
 ### 01-Consoleapp
 An example of a console application with F# and a library: how to call a libray from a console app? In addition, test projects with Microsoft Test, NUnit and xUnit.
 
+### 02-ReadDataForChart
+Reading a CSV file and display the percentage
+
 ## Tutorial
 - [Nested Function Declarations in F#](https://www.puresourcecode.com/dotnet/f/nested-function-declarations-in-f/)
 - [Using immutable data structures in F#](https://www.puresourcecode.com/dotnet/f/using-immutable-data-structures-in-f/)
